@@ -26,30 +26,30 @@
 
 ## Level 3
 ### personnel-svc
-![personnel-svc Level 3](l3/personnel-svc/personnel-svc_l3.png)
+![personnel-svc Level 3](l3/personnel-svc_l3.png)
 
 ### patient-svc
-![patient-svc Level 3](l3/patient-svc/patient-svc_l3.png)
+![patient-svc Level 3](l3/patient-svc_l3.png)
 
 ### disease-svc
-![disease-svc Level 3](l3/disease-svc/disease-svc_l3.png)
+![disease-svc Level 3](l3/disease-svc_l3.png)
 
 ### drug-svc
-![drug-svc Level 3](l3/drug-svc/drug-svc_l3.png)
+![drug-svc Level 3](l3/drug-svc_l3.png)
 
 ---
 
 ## Level 4
 ### personnel-svc
-![personnel-svc Level 4](l4/personnel-svc/personnel-svc_l4.png)
+![personnel-svc Level 4](l4/personnel-svc_l4.png)
 
 ### patient-svc
-![patient-svc Level 4](l4/patient-svc/patient-svc_l4.png)
+![patient-svc Level 4](l4/patient-svc_l4.png)
 
 ### disease-svc
-![disease-svc Level 4](l4/disease-svc/disease-svc_l4.png)
+![disease-svc Level 4](l4/disease-svc_l4.png)
 
 ### drug-svc
-![drug-svc Level 4](l4/drug-svc/drug-svc_l4.png)
+![drug-svc Level 4](l4/drug-svc_l4.png)
 
 ---
